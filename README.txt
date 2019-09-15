@@ -1,4 +1,4 @@
-fix-gp5.exe sert à corriger les pistes batteries mal enregistrées par les anciennes versions de
+fix-gp5.exe sert à corriger les pistes batterie mal enregistrées par les anciennes versions de
 TuxGuitar. C'est un programme à lancer en ligne de commande qui s'utilise de la manière suivante :
 
     fix-gp5.exe fichier-à-corriger.gp5
