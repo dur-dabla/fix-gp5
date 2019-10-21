@@ -1,5 +1,8 @@
 fix-gp5.exe sert à corriger les pistes batterie mal enregistrées par les anciennes versions de
-TuxGuitar. C'est un programme à lancer en ligne de commande qui s'utilise de la manière suivante :
+TuxGuitar. C'est un programme à lancer en ligne de commande ; pour le lancer il faut se placer dans
+le dossier contenant fix-gp5.exe (la commande "cd" sert à se déplacer entre les
+répertoires) et utiliser l'exécutable de la manière suivante (si le fichier à corriger n'est pas
+dans le même dossier que fix-gp5.exe, il faut donner son chemin complet) :
 
     fix-gp5.exe fichier-à-corriger.gp5
 
